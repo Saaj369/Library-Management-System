@@ -30,6 +30,9 @@ BOOK DASH is an intuitive Android application designed to streamline library man
 
 ![Functionalities of the app](screenshots/functionalities.png)
 
+## 📦 APK Download
+
+If you'd like to try the app without building it, download the latest `.apk` from the [Releases](https://github.com/Saaj369/Library-Management-System/releases) section.
 
 ## ⚙️ Installation
 
