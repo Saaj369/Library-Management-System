@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BookDash</string>
+    <string name="Add">Add a Book</string>
+    <string name="Search">Search a Book</string>
+    <string name="Borrow">Borrow a Book</string>
+    <string name="Return">Return a Book</string>
+    <string name="Display">Display All Books</string>
+</resources>
