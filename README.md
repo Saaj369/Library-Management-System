@@ -26,13 +26,10 @@ BOOK DASH is an intuitive Android application designed to streamline library man
   * **XML** for UI Layouts
 
 ## 📱 Screenshots
+![Main page of the app](screenshots/main_page.png)
 
-*(Ideally, you would replace these with actual screenshots of your app)*
+![Functionalities of the app](screenshots/functionalities.png)
 
-| Portrait Mode | Landscape Mode |
-| :------------ | :------------- |
-|  |  |
-|  |  |
 
 ## ⚙️ Installation
 
@@ -41,7 +38,7 @@ To get a local copy up and running, follow these simple steps.
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/YourUsername/BookDash.git
+    git clone https://github.com/Saaj369/Library-Management-System.git
     ```
 
 2.  **Open in Android Studio:**
@@ -77,8 +74,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## ✉️ Contact
 
-Your Name/Organization - (mailto:saajdaheriya@gmail.com)
+Sajan Daheriya - (mailto:saajdaheriya@gmail.com)
 
-Project Link: [https://github.com/YourUsername/BookDash](https://www.google.com/search?q=https://github.com/YourUsername/BookDash)
+Project Link: [https://github.com/Saaj369/Library-Management-System.git](https://github.com/Saaj369/Library-Management-System.git)
 
 -----
